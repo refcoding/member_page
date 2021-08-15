@@ -4,7 +4,7 @@ title: 隐私政策
 include_in_header: false
 ---
 
-**Last updated**  
+**更新于**  
 2021年8月15日
 
 # 隐私政策
